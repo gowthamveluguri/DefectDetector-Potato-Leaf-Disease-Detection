@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Identifier</string>
+    <string name="confirm">Confirm</string>
+    <string name="prevention_tips">Prevention Tips:</string>
+    <string name="disease_description">Disease Description:</string>
+    <string name="disease_name">Disease Name:</string>
+    <string name="disease_desc">Disease Description:</string>
+    <string name="upload">UPLOAD</string>
+    <string name="capture">CAPTURE</string>
+    <string name="potato_plant_disease_detection">POTATO PLANT DISEASE DETECTION</string>
+    />
+</resources>
